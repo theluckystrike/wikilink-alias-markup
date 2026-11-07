@@ -1,6 +1,6 @@
 {
 	"name": "wikilink-alias-markup",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": true,
 	"description": "Show inline code, bold, italic and more in the alias of a wikilink, in Reading view and Live Preview.",
 	"main": "main.js",

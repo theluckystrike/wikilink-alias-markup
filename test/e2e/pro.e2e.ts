@@ -5,7 +5,7 @@ import type Plugin from '../../src/main';
 
 const MATH_ROW = 'Math in aliases';
 const LEAD = 'Math in aliases is a Pro feature.';
-const PITCH = 'Sponsor on GitHub, then sign in from the plugin settings.';
+const PITCH = 'One payment turns on Pro in every NoteMods plugin. Sponsor on GitHub, then sign in from the plugin settings.';
 
 type P = { plugins: { plugins: Record<string, Plugin> } };
 

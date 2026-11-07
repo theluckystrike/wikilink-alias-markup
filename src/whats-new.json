@@ -1,8 +1,10 @@
 {
 	"id": "wikilink-alias-markup",
 	"name": "Wikilink Alias Markup",
-	"version": "1.0.0",
-	"changes": [],
+	"version": "1.0.1",
+	"changes": [
+		"The Pro notice of Wikilink Alias Markup now says that one payment turns on Pro in every NoteMods plugin."
+	],
 	"tip": "Write markup in the alias of a link, for example [[Obsidian|`obsidian`]] or [[The TeXbook|*The TeXbook*]]. Put the cursor in the link to edit the source.",
 	"thanks": "Hi, I am Michael, a solo developer in Poland. Wikilink Alias Markup is one of over 100 small plugins that I make. Thank you for trusting it with your notes.",
 	"related": [
